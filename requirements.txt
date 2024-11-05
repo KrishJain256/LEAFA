@@ -1,0 +1,11 @@
+llama-index
+streamlit
+langchain
+PyPDF2
+ollama
+groq
+langchain_community
+langchain_core
+langchain_google_genai
+langchain_huggingface
+langchain_groq
